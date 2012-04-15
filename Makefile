@@ -4,6 +4,8 @@ SUBLEVEL = 0
 EXTRAVERSION =
 NAME = Saber-toothed Squirrel
 
+KBUILD_OUTPUT=/var/tmp/kernel-output/git${KARCH}
+
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
