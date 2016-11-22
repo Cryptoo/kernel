@@ -4,6 +4,8 @@ SUBLEVEL = 0
 EXTRAVERSION =
 NAME = Psychotic Stoned Sheep
 
+KBUILD_OUTPUT=/var/tmp/kernel/${KTYPE}/${KARCH}
+
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
